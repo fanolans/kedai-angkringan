@@ -1,6 +1,11 @@
 # kedai_angkringan
 
-A new Flutter project.
+Mobile Version:
+![Untitled-1](https://user-images.githubusercontent.com/85090127/191337608-8c485e4b-a2a7-41bf-bece-8298a4daad32.png)
+
+Website Version:
+![1](https://user-images.githubusercontent.com/85090127/191338123-29ce312d-51f6-473b-8cfa-357d26bc8237.png)
+![2](https://user-images.githubusercontent.com/85090127/191338321-d569738c-1e21-4a9d-91cd-b1c47a5a50d4.png)
 
 ## Getting Started
 
